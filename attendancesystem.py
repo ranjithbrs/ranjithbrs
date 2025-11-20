@@ -27,6 +27,36 @@ def mark_attendance():
 def view_attendance(student_id):
     query = "SELECT date, status FROM attendance WHERE student_id = %s"
     cursor.execute(query, (student_id,))
+
+
+
+
+
+
+
+@app.route('/reports')
+@login_required
+def reports():
+    if current_user.role != 'admin':
+        return "Unauthorized"
+    cursor.execute("""
+        SELECT s.name, 
+               COUNT(CASE WHEN a.status='Present' THEN 1 END)/COUNT(*)*100 AS percentage
+        FROM students s
+        JOIN attendance a ON s.student_id = a.student_id
+        GROUP BY s.student_id
+    """)
+    rows = cursor.fetchall()
+    labels = [row[0] for row in rows]
+    data = [row[1] for row in rows]
+    return render_template('reports.html', labels=labels, data=data)
+
+
+
+
+
+
+    
     records = cursor.fetchall()
     return jsonify(records)
 
