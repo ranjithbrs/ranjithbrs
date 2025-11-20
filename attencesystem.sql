@@ -30,6 +30,23 @@ CREATE TABLE users (
     user_id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50) UNIQUE NOT NULL,
     password VARCHAR(255) NOT NULL, -- store hashed passwords
+
+
+SELECT s.name, 
+       COUNT(CASE WHEN a.status='Present' THEN 1 END) / COUNT(*) * 100 AS attendance_percentage
+FROM students s
+JOIN attendance a ON s.student_id = a.student_id
+GROUP BY s.student_id;
+
+
+
+
+
+
+
+
+
+    
     role ENUM('student','admin') NOT NULL,
     student_id INT,
     FOREIGN KEY (student_id) REFERENCES students(student_id)
