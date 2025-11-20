@@ -96,3 +96,37 @@ def logout():
     logout_user()
     return redirect(url_for('login'))
 
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import mysql.connector
+
+db = mysql.connector.connect(
+    host="localhost", user="root", password="your_password", database="attendance_system"
+)
+cursor = db.cursor()
+
+query = """
+SELECT s.name, a.date, a.status
+FROM students s
+JOIN attendance a ON s.student_id = a.student_id
+"""
+cursor.execute(query)
+rows = cursor.fetchall()
+
+# Convert to DataFrame
+df = pd.DataFrame(rows, columns=['name','date','status'])
+
+# Calculate percentage
+report = df.groupby('name')['status'].apply(lambda x: (x=='Present').sum()/len(x)*100)
+print(report)
+
+# Visualization
+report.plot(kind='bar', title="Attendance Percentage per Student")
+plt.ylabel("Percentage (%)")
+plt.show()
+
+
+
