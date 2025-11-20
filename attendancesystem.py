@@ -32,3 +32,67 @@ def view_attendance(student_id):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+
+
+
+from flask import Flask, render_template, request, redirect, url_for
+from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+import mysql.connector, bcrypt
+
+app = Flask(__name__)
+app.secret_key = "secret_key_here"
+
+login_manager = LoginManager()
+login_manager.init_app(app)
+
+db = mysql.connector.connect(
+    host="localhost", user="root", password="your_password", database="attendance_system"
+)
+cursor = db.cursor(dictionary=True)
+
+class User(UserMixin):
+    def __init__(self, id, username, role, student_id):
+        self.id = id
+        self.username = username
+        self.role = role
+        self.student_id = student_id
+
+@login_manager.user_loader
+def load_user(user_id):
+    cursor.execute("SELECT * FROM users WHERE user_id=%s", (user_id,))
+    u = cursor.fetchone()
+    if u:
+        return User(u['user_id'], u['username'], u['role'], u['student_id'])
+    return None
+
+@app.route('/login', methods=['GET','POST'])
+def login():
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password'].encode('utf-8')
+        cursor.execute("SELECT * FROM users WHERE username=%s", (username,))
+        u = cursor.fetchone()
+        if u and bcrypt.checkpw(password, u['password'].encode('utf-8')):
+            user = User(u['user_id'], u['username'], u['role'], u['student_id'])
+            login_user(user)
+            return redirect(url_for('dashboard'))
+    return render_template('login.html')
+
+@app.route('/dashboard')
+@login_required
+def dashboard():
+    if current_user.role == 'student':
+        return f"Welcome {current_user.username}, view your attendance here."
+    elif current_user.role == 'admin':
+        return "Admin dashboard: view all reports."
+    else:
+        return "Unauthorized"
+
+@app.route('/logout')
+@login_required
+def logout():
+    logout_user()
+    return redirect(url_for('login'))
+
