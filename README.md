@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-[![Credly Badge](https://img.shields.io/badge/Credly-Badge-blue?style=flat&logo=credly)](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url)
+[![Google Agentic AI Badge](https://img.shields.io/badge/Credly-Badge-blue?style=flat&logo=credly)](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url)
 
 ---
 
