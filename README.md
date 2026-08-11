@@ -56,18 +56,18 @@
 
 [![All Certificates](https://img.shields.io/badge/📁%20All%20Certificates-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link)
 
-| Certificate | Issuer |
-|---|---|
-| 🏅 Agentic AI Architecture | Google |
-| 🤖 AI & Machine Learning | Google |
-| 🧠 Generative AI & Deep Learning | EduSkills |
-| 📱 Android Development | Google |
-| ⛓️ Blockchain Architecture | NPTEL |
-| 🌐 Internet of Things (IoT) | NPTEL |
-| 📊 Data Science Master | Altair |
-| 📈 Business Analyst | Celonis |
-| ☕ Java (Basic) | HackerRank |
-| 🐍 Python (Basic) | HackerRank |
+| Certificate | Issuer | Verify |
+|---|---|:---:|
+| 🏅 Agentic AI Architecture | Google | [Credly Badge 🔗](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url) |
+| 🤖 AI & Machine Learning | Google | — |
+| 🧠 Generative AI & Deep Learning | EduSkills | — |
+| 📱 Android Development | Google | — |
+| ⛓️ Blockchain Architecture | NPTEL | — |
+| 🌐 Internet of Things (IoT) | NPTEL | — |
+| 📊 Data Science Master | Altair | — |
+| 📈 Business Analyst | Celonis | — |
+| ☕ Java (Basic) | HackerRank | — |
+| 🐍 Python (Basic) | HackerRank | — |
 
 ---
 
