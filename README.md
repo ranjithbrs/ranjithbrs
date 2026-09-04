@@ -32,10 +32,12 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
+| 🔒 **Secure AI Journal App** | AI-powered journal with Gemini smart prompts & secure auth | JS · AI · Vercel | [Live 🚀](https://secure-ai-journal-app.vercel.app) |
 | 🎓 **Online Examination System** | Full-stack examination platform featuring candidate test portals and a teacher audit dashboard. | Java · Spring Boot · MySQL | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
 | 🛡️ **CertValid** | Secure digital certificate verification system using SHA-256 cryptographic hashing and QR code scanning. | JavaScript · HTML5 · Crypto API | [Repo 💻](https://github.com/ranjithbrs/CertValid) |
 | 🏥 **PHC Doctor Attendance System** | Doctor attendance tracking application with RESTful APIs, Docker containerization, and cloud database integration. | Java · Docker · REST API · Railway | [Repo 💻](https://github.com/ranjithbrs/phc-doctor-attendance-system) |
 | 🤖 **AI Lab Record Generator** | AI-powered web tool automating technical lab report generation using Hugging Face model APIs. | Python · Flask · Hugging Face API | [Repo 💻](https://github.com/ranjithbrs/AI-Lab-Record-Generator) |
+| 📚 **Books Web Scraping** | Multi-page scraper with BeautifulSoup & Pandas | Python · BS4 · Pandas | [Repo 💻](https://github.com/ranjithbrs/books-web-scraping) |
 | 🧮 **AdvSciCalcGUI** | Advanced scientific calculator GUI application compiled and packaged into a standalone `.exe`. | Python · Tkinter | [Repo 💻](https://github.com/ranjithbrs/AdvSciCalcGUI) |
 | 🌐 **Portfolio Website** | Interactive developer portfolio featuring dark mode toggle, dynamic project filtering, and smooth navigation. | HTML5 · CSS3 · JavaScript | [Repo 💻](https://github.com/ranjithbrs/portfolio) · [Live 🚀](https://ranjithbrs.github.io/portfolio/) |
 
