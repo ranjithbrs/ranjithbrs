@@ -9,6 +9,7 @@
 ### 🌐 Connect & Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-10B981?style=for-the-badge&logo=github&logoColor=white)](https://ranjithbrs.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ranjithbrs.github.io/portfolio/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjith-b-85907831a)
 [![Email](https://img.shields.io/badge/Email-ranjithb2k06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjithb2k06@gmail.com)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link)
