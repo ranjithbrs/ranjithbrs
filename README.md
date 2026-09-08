@@ -33,14 +33,17 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🔒 **Secure AI Journal App** | AI-powered journal with Gemini smart prompts & secure auth | JS · AI · Vercel | [Live 🚀](https://secure-ai-journal-app.vercel.app) |
-| 🎓 **Online Examination System** | Full-stack examination platform featuring candidate test portals and a teacher audit dashboard. | Java · Spring Boot · MySQL | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
-| 🛡️ **CertValid** | Secure digital certificate verification system using SHA-256 cryptographic hashing and QR code scanning. | JavaScript · HTML5 · Crypto API | [Repo 💻](https://github.com/ranjithbrs/CertValid) |
-| 🏥 **PHC Doctor Attendance System** | Doctor attendance tracking application with RESTful APIs, Docker containerization, and cloud database integration. | Java · Docker · REST API · Railway | [Repo 💻](https://github.com/ranjithbrs/phc-doctor-attendance-system) |
-| 🤖 **AI Lab Record Generator** | AI-powered web tool automating technical lab report generation using Hugging Face model APIs. | Python · Flask · Hugging Face API | [Repo 💻](https://github.com/ranjithbrs/AI-Lab-Record-Generator) |
-| 📚 **Books Web Scraping** | Multi-page scraper with BeautifulSoup & Pandas | Python · BS4 · Pandas | [Repo 💻](https://github.com/ranjithbrs/books-web-scraping) |
-| 🧮 **AdvSciCalcGUI** | Advanced scientific calculator GUI application compiled and packaged into a standalone `.exe`. | Python · Tkinter | [Repo 💻](https://github.com/ranjithbrs/AdvSciCalcGUI) |
-| 🌐 **Portfolio Website** | Interactive developer portfolio featuring dark mode toggle, dynamic project filtering, and smooth navigation. | HTML5 · CSS3 · JavaScript | [Repo 💻](https://github.com/ranjithbrs/portfolio) · [Live 🚀](https://ranjithbrs.github.io/portfolio/) |
+| 🤖 **RepoNarrator AI** | Autonomous 4-agent pipeline transforming GitHub repos into interactive Reveal.js slide decks with real-time SSE. | Python · Gemini 2.0 · SSE · Reveal.js | [Repo 💻](https://github.com/ranjithbrs/reponarrator-ai) |
+| 🎨 **Illustration Agent (A2A)** | Agent-to-Agent AI microservice deployed serverlessly on Google Cloud Run (GENAI120 score: 100/100). | Python · Google ADK · A2A · Cloud Run | [Repo 💻](https://github.com/ranjithbrs/illustration-agent-a2a) |
+| 🔒 **Secure AI Journal App** | Cloud Run & Vercel AI journaling app with Gemini 2.5 Flash sentiment analysis and zero-trust Firestore security. | React · Node.js · Gemini 2.5 · Firestore | [Repo 💻](https://github.com/ranjithbrs/secure-ai-journal-app) · [Live 🚀](https://secure-ai-journal-app-br3843311-7472s-projects.vercel.app) |
+| 🎓 **Online Examination System** | Full-stack proctored exam platform with tab-lock security, weighted Trust Index score, and candidate audit analytics. | Java 21 · Spring Boot 3.5 · MySQL · Docker | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
+| 🛡️ **CertValid** | Tamper-proof certificate verification platform with SHA-256 cryptographic hashing, PBKDF2 auth, and dynamic QR stamping. | Python · Flask · SQLite WAL · Pillow | [Repo 💻](https://github.com/ranjithbrs/CertValid) · [Live 🚀](https://ranjithbrs.pythonanywhere.com) |
+| 🏥 **PHC Doctor Attendance System** | Full-stack geo-fenced doctor tracking platform with Haversine distance validation (500m radius) and Leaflet.js maps. | Java 21 · Spring Boot 3 · Docker · Leaflet | [Repo 💻](https://github.com/ranjithbrs/phc-doctor-attendance-system) · [Live 🚀](https://ranjithbrs.github.io/phc-doctor-attendance-system/) |
+| 🤖 **AI Lab Record Generator** | Automated technical laboratory record and procedure generator powered by Hugging Face inference APIs. | Python · Flask · Hugging Face · CSS3 | [Repo 💻](https://github.com/ranjithbrs/AI-Lab-Record-Generator) · [Live 🚀](https://ranjithbrs.github.io/AI-Lab-Record-Generator/) |
+| 💼 **Mini Real-World Systems Pack** | Modular computational engines modeling loan underwriting, e-commerce dynamic pricing, cab surge, and classical DSA. | Python · Finance · Retail · Algorithms | [Repo 💻](https://github.com/ranjithbrs/Mini-RealWorld-Systems-Pack) |
+| 🧮 **AdvSciCalcGUI** | Modern Dracula-themed scientific calculator with decoupled MVC engine, history recall, and standalone `.exe` packaging. | Python · Tkinter · PyInstaller | [Repo 💻](https://github.com/ranjithbrs/AdvSciCalcGUI) |
+| 📚 **Books Web Scraping** | 50-page paginated web extraction pipeline collecting and validating 1,000 structured book records. | Python · Requests · BS4 · Pandas | [Repo 💻](https://github.com/ranjithbrs/books-web-scraping) |
+| 🌐 **Developer Portfolio** | Responsive personal portfolio featuring dark glassmorphism, project filters, mobile drawer, and self-hosted resume PDF. | HTML5 · CSS3 · JavaScript · GitHub Pages | [Repo 💻](https://github.com/ranjithbrs/portfolio) · [Live 🚀](https://ranjithbrs.github.io/portfolio/) |
 
 ---
 
