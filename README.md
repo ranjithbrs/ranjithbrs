@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-10B981?style=for-the-badge&logo=github&logoColor=white)](https://ranjithbrs.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ranjithbrs.github.io/portfolio/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjith-b-85907831a)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranjithb2k06)
 [![Email](https://img.shields.io/badge/Email-ranjithb2k06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjithb2k06@gmail.com)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link)
 
@@ -33,7 +34,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🤖 **RepoNarrator AI** | Autonomous 4-agent pipeline transforming GitHub repos into interactive Reveal.js slide decks with real-time SSE. | Python · Gemini 2.0 · SSE · Reveal.js | [Repo 💻](https://github.com/ranjithbrs/reponarrator-ai) |
+| 🤖 **RepoNarrator AI** | Autonomous 4-agent pipeline transforming GitHub repos into interactive Reveal.js slide decks with real-time SSE. | Python · Gemini 2.0 · SSE · Reveal.js | [Repo 💻](https://github.com/ranjithbrs/reponarrator-ai) · [Medium 📖](https://medium.com/@ranjithb2k06/building-an-autonomous-4-agent-pipeline-with-google-gemini-2-0-flash-and-server-sent-events-65d0bc944d2c) |
 | 🎨 **Illustration Agent (A2A)** | Agent-to-Agent AI microservice deployed serverlessly on Google Cloud Run (GENAI120 score: 100/100). | Python · Google ADK · A2A · Cloud Run | [Repo 💻](https://github.com/ranjithbrs/illustration-agent-a2a) |
 | 🔒 **Secure AI Journal App** | Cloud Run & Vercel AI journaling app with Gemini 2.5 Flash sentiment analysis and zero-trust Firestore security. | React · Node.js · Gemini 2.5 · Firestore | [Repo 💻](https://github.com/ranjithbrs/secure-ai-journal-app) · [Live 🚀](https://secure-ai-journal-app-br3843311-7472s-projects.vercel.app) |
 | 🎓 **Online Examination System** | Full-stack proctored exam platform with tab-lock security, weighted Trust Index score, and candidate audit analytics. | Java 21 · Spring Boot 3.5 · MySQL · Docker | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
