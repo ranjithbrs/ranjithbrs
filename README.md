@@ -21,7 +21,7 @@
 
 | Role | Company | Duration | Verification / Proof |
 | :--- | :--- | :--- | :---: |
-| 🔐 **Cybersecurity Intern** | [NoviTech R&D Private Limited](https://drive.google.com/file/d/1ikF1cfkQo0NxOMZy5V7t31y-XuESHL3K/view?usp=drive_link) | 1 Month | [Certificate 🔗](https://drive.google.com/file/d/1ikF1cfkQo0NxOMZy5V7t31y-XuESHL3K/view?usp=drive_link) |
+| 🔐 **Cybersecurity Intern** | [NoviTech R&D Private Limited](https://drive.google.com/file/d/1ikF1cfkQo0NxOMZy5V7t31y-XuESHL3K/view?usp=sharing) | 1 Month | [Certificate 🔗](https://drive.google.com/file/d/1ikF1cfkQo0NxOMZy5V7t31y-XuESHL3K/view?usp=sharing) |
 
 > 📌 **Key Responsibilities & Highlights**:
 > - Executed network packet capture, monitoring, and vulnerability analysis using **Wireshark**.
@@ -35,10 +35,11 @@
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
 | 🤖 **RepoNarrator AI** | Autonomous 4-agent pipeline transforming GitHub repos into interactive Reveal.js slide decks with real-time SSE. | Python · Gemini 2.0 · SSE · Reveal.js | [Repo 💻](https://github.com/ranjithbrs/reponarrator-ai) · [Medium 📖](https://medium.com/@ranjithb2k06/building-an-autonomous-4-agent-pipeline-with-google-gemini-2-0-flash-and-server-sent-events-65d0bc944d2c) |
-| 🎨 **Illustration Agent (A2A)** | Agent-to-Agent AI microservice deployed serverlessly on Google Cloud Run (GENAI120 score: 100/100). | Python · Google ADK · A2A · Cloud Run | [Repo 💻](https://github.com/ranjithbrs/illustration-agent-a2a) |
-| 🔒 **Secure AI Journal App** | Cloud Run & Vercel AI journaling app with Gemini 2.5 Flash sentiment analysis and zero-trust Firestore security. | React · Node.js · Gemini 2.5 · Firestore | [Repo 💻](https://github.com/ranjithbrs/secure-ai-journal-app) · [Live 🚀](https://secure-ai-journal-app-br3843311-7472s-projects.vercel.app) |
+| 🏥 **MediQ** | Full-stack healthcare PWA with doctor appointment scheduling, live maps, Razorpay checkout, and emergency triage. | React 18 · TypeScript · Supabase · Capacitor | [Repo 💻](https://github.com/ranjithbrs/mediq-web) · [Live 🚀](https://mediq-web-delta.vercel.app/auth) |
 | 🎓 **Online Examination System** | Full-stack proctored exam platform with tab-lock security, weighted Trust Index score, and candidate audit analytics. | Java 21 · Spring Boot 3.5 · MySQL · Docker | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
 | 🛡️ **CertValid** | Tamper-proof certificate verification platform with SHA-256 cryptographic hashing, PBKDF2 auth, and dynamic QR stamping. | Python · Flask · SQLite WAL · Pillow | [Repo 💻](https://github.com/ranjithbrs/CertValid) · [Live 🚀](https://ranjithbrs.pythonanywhere.com) |
+| 🎨 **Illustration Agent (A2A)** | Agent-to-Agent AI microservice deployed serverlessly on Google Cloud Run (GENAI120 score: 100/100). | Python · Google ADK · A2A · Cloud Run | [Repo 💻](https://github.com/ranjithbrs/illustration-agent-a2a) |
+| 🔒 **Secure AI Journal App** | Cloud Run & Vercel AI journaling app with Gemini 2.5 Flash sentiment analysis and zero-trust Firestore security. | React · Node.js · Gemini 2.5 · Firestore | [Repo 💻](https://github.com/ranjithbrs/secure-ai-journal-app) · [Live 🚀](https://secure-ai-journal-app-br3843311-7472s-projects.vercel.app) |
 | 🏥 **PHC Doctor Attendance System** | Full-stack geo-fenced doctor tracking platform with Haversine distance validation (500m radius) and Leaflet.js maps. | Java 21 · Spring Boot 3 · Docker · Leaflet | [Repo 💻](https://github.com/ranjithbrs/phc-doctor-attendance-system) · [Live 🚀](https://ranjithbrs.github.io/phc-doctor-attendance-system/) |
 | 🤖 **AI Lab Record Generator** | Automated technical laboratory record and procedure generator powered by Hugging Face inference APIs. | Python · Flask · Hugging Face · CSS3 | [Repo 💻](https://github.com/ranjithbrs/AI-Lab-Record-Generator) · [Live 🚀](https://ranjithbrs.github.io/AI-Lab-Record-Generator/) |
 | 💼 **Mini Real-World Systems Pack** | Modular computational engines modeling loan underwriting, e-commerce dynamic pricing, cab surge, and classical DSA. | Python · Finance · Retail · Algorithms | [Repo 💻](https://github.com/ranjithbrs/Mini-RealWorld-Systems-Pack) |
@@ -56,6 +57,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,9 +66,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Tools & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
