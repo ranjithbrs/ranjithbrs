@@ -34,6 +34,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
+| ⛰️ **NER Landslide Early Warning System** | AI/ML geohazard early warning & tactical GIS platform for North East India (MDoNER PS 26001). 95.89% Recall Random Forest + DLHI index. | Python · FastAPI · Scikit-Learn · Leaflet · Docker | [Repo 💻](https://github.com/ranjithbrs/ner-landslide-early-warning) · [Case Study 📖](https://github.com/ranjithbrs/ner-landslide-early-warning/blob/main/PORTFOLIO.md) |
 | 🤖 **RepoNarrator AI** | Autonomous 4-agent pipeline transforming GitHub repos into interactive Reveal.js slide decks with real-time SSE. | Python · Gemini 2.0 · SSE · Reveal.js | [Repo 💻](https://github.com/ranjithbrs/reponarrator-ai) · [Medium 📖](https://medium.com/@ranjithb2k06/building-an-autonomous-4-agent-pipeline-with-google-gemini-2-0-flash-and-server-sent-events-65d0bc944d2c) · [Live 🚀](https://reponarrator-ai.onrender.com) |
 | 🏥 **MediQ** | Full-stack healthcare PWA with doctor appointment scheduling, live maps, Razorpay checkout, and emergency triage. | React 18 · TypeScript · Supabase · Capacitor | [Repo 💻](https://github.com/ranjithbrs/mediq-web) · [Live 🚀](https://mediq-web-delta.vercel.app/auth) |
 | 🎓 **Online Examination System** | Full-stack proctored exam platform with tab-lock security, weighted Trust Index score, and candidate audit analytics. | Java 21 · Spring Boot 3.5 · MySQL · Docker | [Repo 💻](https://github.com/ranjithbrs/Online-Examination-System) · [Medium 📖](https://medium.com/@ranjithb2k06/engineering-an-anti-cheating-online-examination-engine-with-spring-boot-3-java-21-00046f9065ed) · [Live 🚀](https://online-examination-system-dcoc.onrender.com) |
@@ -63,9 +64,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Backends**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Tools & DevOps**  
