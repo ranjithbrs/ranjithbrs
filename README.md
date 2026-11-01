@@ -5,9 +5,10 @@
   # 👋 Hi, I'm Ranjith B
 
   **B.Tech in Computer Science & Business Systems (CSBS)**  
-  *Nehru Institute of Engineering and Technology, Coimbatore (CGPA: 8.3 / 10.0)*
+  *Nehru Institute of Engineering and Technology, Coimbatore (CGPA: 8.3 / 10.0 · Class of 2027)*
 
-  🚀 **Full-Stack Developer (Java / Spring Boot & Python) · Applied AI & Systems Engineer**
+  🚀 **Software Development Engineer (SDE) & Full-Stack Developer**  
+  *Specializing in Enterprise Java (Spring Boot 3), Python (FastAPI / Gemini AI), JavaScript (React 18), and Relational Databases (SQL).*
 
   <br/>
 
@@ -24,20 +25,20 @@
 
 ### 💡 Professional Summary & Identity
 
-I am a final-year **Computer Science & Business Systems (CSBS)** student with a deep interest in software architecture, enterprise backend systems, and applied AI workflows. 
+I am a final-year **Computer Science & Business Systems (CSBS)** undergraduate student with a focus on robust software engineering, scalable web architectures, and applied artificial intelligence.
 
-My engineering journey combines:
-- ☕ **Enterprise Java Engineering**: Developing secure, containerized REST microservices using **Java 21**, **Spring Boot 3**, **Spring Data JPA**, and **MySQL**.
-- 🤖 **Applied AI & Autonomous Agents**: Designing multi-agent pipelines with **Google Gemini 2.0 Flash**, Server-Sent Events (SSE), and **Google Agent Development Kit (ADK)**.
-- 🌐 **Modern Full-Stack Applications**: Building responsive client portals in **React 18**, **TypeScript**, and **Tailwind CSS** with cloud persistence via **Supabase** and **Vercel**.
-- 🛡️ **Cybersecurity Experience**: Industry internship exposure at **NoviTech R&D**, inspecting enterprise network traffic and protocol security using **Wireshark**.
-- 🎯 **Career Focus**: Seeking full-time roles as a **Software Development Engineer (SDE)** or **Full-Stack Developer** where I can contribute to resilient, production-ready systems.
+**Core Technical Competencies:**
+- ☕ **Backend & Enterprise Java**: Engineering microservices and REST APIs with **Java 21**, **Spring Boot 3**, **Spring Data JPA**, and relational **SQL (MySQL / PostgreSQL)**, focusing on transaction integrity and defensive validation.
+- 🐍 **Python & Autonomous AI Systems**: Developing agentic pipelines and data services using **Python 3**, **FastAPI**, **Flask**, and **Google Gemini 2.0 Flash** with Server-Sent Events (SSE) streaming.
+- 🌐 **Modern Frontend Engineering**: Architecting responsive web applications with **JavaScript (ES6+)**, **TypeScript**, **React 18**, and **Tailwind CSS**, integrated with cloud persistence layers like **Supabase** and **Firebase**.
+- 🛡️ **Security & System Diagnostics**: Practical network packet inspection and vulnerability auditing with **Wireshark** (NoviTech R&D Internship) and zero-trust cryptographic verification (SHA-256).
+- 🎯 **Career Objective**: Actively seeking campus placement and entry-level opportunities as a **Software Development Engineer (SDE)**, **Java Backend Developer**, or **Full-Stack Engineer**.
 
 ---
 
-## 📌 Featured Pinned Repositories
+## 📌 Recommended Pinned Repositories
 
-These six projects best represent my technical capabilities across backend engineering, autonomous AI agents, full-stack development, and system security:
+These six projects best represent my technical capabilities across backend engineering, autonomous AI agents, full-stack systems, and security:
 
 | Pinned Repository | Core Focus | Architecture & Key Deliverables | Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -108,7 +109,7 @@ To provide transparent, honest framing for recruiters, my repositories are struc
 ### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20(MySQL%20%7C%20Postgres)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -143,9 +144,11 @@ To provide transparent, honest framing for recruiters, my repositories are struc
 
 ---
 
-## 🏆 Verified Certifications & Continuous Learning
+## 🏆 Certifications & Continuous Learning
 
-| Credential Name | Issuing Authority | Status | Verification Link |
+### 🏅 Verified Completed Certifications
+
+| Credential Name | Issuing Authority | Verification Status | Document Link |
 | :--- | :--- | :---: | :---: |
 | 🏅 **Agentic AI Architecture** | Google | **Completed** | [Credly Badge 🔗](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url) |
 | 🤖 **AI & Machine Learning** | Google for Developers | **Completed** | [Verified 📁](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link) |
@@ -159,6 +162,12 @@ To provide transparent, honest framing for recruiters, my repositories are struc
 | 🐍 **Python (Basic) Assessment** | HackerRank | **Completed** | [Verified 📁](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link) |
 
 👉 *All credential documents and verification letters are available in the public [Google Drive Folder](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link).*
+
+### 🔄 Ongoing Learning & Active Specializations
+
+- 🏗️ **Distributed Systems & Microservices Design Patterns**: Exploring event-driven architectures with Apache Kafka, circuit breaker resiliency, and distributed caching in Spring Boot.
+- ☁️ **Cloud Native Kubernetes (K8s)**: Practicing container orchestration, ingress controllers, and Helm charts for multi-container deployments.
+- 🤖 **Advanced Agentic AI & RAG Orchestration**: Deepening expertise in multi-modal vector search, graph databases (Neo4j), and agent tool protocols.
 
 ---
 
