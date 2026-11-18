@@ -138,7 +138,7 @@ To provide transparent, honest framing for recruiters, my repositories are struc
 
 | Credential Name | Issuing Authority | Verification Status | Document Link |
 | :--- | :--- | :---: | :---: |
-| 🏅 **Agentic AI Architecture** | Google | **Completed** | [Credly Badge 🔗](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url) |
+| 🏅 **Agentic AI Serious** | Google | **Completed** | [Credly Badge 🔗](https://www.credly.com/badges/16f8a1c9-1a67-4daf-a8cd-07e7892fc202/public_url) |
 | 🤖 **AI & Machine Learning** | Google for Developers | **Completed** | [Verified 📁](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link) |
 | 🧠 **Generative AI & Deep Learning** | EduSkills Foundation | **Completed** | [Verified 📁](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link) |
 | 📱 **Android App Development** | Google for Developers | **Completed** | [Verified 📁](https://drive.google.com/drive/folders/1jEl8_ZTFQUk3wCvytGIQeALQTlbyuXnF?usp=drive_link) |
