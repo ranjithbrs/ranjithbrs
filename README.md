@@ -162,13 +162,15 @@ To provide transparent, honest framing for recruiters, my repositories are struc
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithbrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ranjith's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithbrs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjithbrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Ranjith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithbrs&layout=compact&theme=tokyonight&hide_border=true&hide=html,jupyter%20notebook" alt="Top Languages" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithbrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Writing clean, well-tested code and engineering transparent, reliable software systems."</i></p>
-  <p><b>Open to Software Development Engineer (SDE) and Graduate Engineering Trainee opportunities. Connect on <a href="https://linkedin.com/in/ranjith-b-csbs">LinkedIn</a> or via <a href="mailto:ranjithb2k06@gmail.com">Email</a>.</b></p>
+  <p><i>"Engineering resilient enterprise backends, clean full-stack web applications, and practical machine learning solutions with strong CS fundamentals."</i></p>
+  <p><b>Actively seeking Software Development Engineer (SDE) and Graduate Engineering Trainee opportunities. Connect on <a href="https://linkedin.com/in/ranjith-b-csbs">LinkedIn</a> or via <a href="mailto:ranjithb2k06@gmail.com">Email</a>.</b></p>
 </div>
