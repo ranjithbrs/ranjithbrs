@@ -36,21 +36,6 @@ I am a final-year **Computer Science & Business Systems (CSBS)** undergraduate s
 
 ---
 
-## 📌 Recommended Pinned Repositories
-
-These six projects best represent my technical capabilities across backend engineering, autonomous AI agents, full-stack systems, and security:
-
-| Pinned Repository | Core Focus | Architecture & Key Deliverables | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| [**Online-Examination-System**](https://github.com/ranjithbrs/Online-Examination-System) | **Enterprise Java** | Proctored online exam engine with browser anti-cheating tab-switch detection, Weighted Trust Index scoring, and Docker containerization. | Java 21 · Spring Boot 3 · MySQL · Docker · Render |
-| [**phc-doctor-attendance-system**](https://github.com/ranjithbrs/phc-doctor-attendance-system) | **Java & Geofencing** | Doctor attendance tracking microservice combining Haversine GPS geofencing, GitHub Pages UI, and containerized Railway MySQL backend. | Java · Spring Boot · MySQL · Leaflet GIS · Docker |
-| [**CertValid**](https://github.com/ranjithbrs/CertValid) | **Security & Cryptography** | Tamper-proof certificate verification platform pairing dynamic QR code scanning with SHA-256 cryptographic hash validation. | Python · Flask · SHA-256 · SQLite · PythonAnywhere |
-| [**reponarrator-ai**](https://github.com/ranjithbrs/reponarrator-ai) | **Autonomous AI Agents** | 4-agent autonomous pipeline analyzing public GitHub repositories and streaming live Reveal.js slide decks via Server-Sent Events. | Python · Gemini 2.0 Flash · Flask / SSE · Reveal.js |
-| [**mediq-web**](https://github.com/ranjithbrs/mediq-web) | **Full-Stack PWA** | Healthcare and doctor appointment booking platform with live geolocation hospital maps, multi-role RBAC, and Razorpay checkout. | React 18 · TypeScript · Supabase · Capacitor · Vercel |
-| [**AdvSciCalcGUI**](https://github.com/ranjithbrs/AdvSciCalcGUI) | **Desktop Software** | Desktop scientific calculator with dark-themed Tkinter GUI, synchronized CLI math engine, and standalone Windows `.exe` packaging. | Python · Tkinter · PyInstaller · Math Engine |
-
----
-
 ## 🚀 Repository Portfolio Breakdown
 
 To provide transparent, honest framing for recruiters, my repositories are structured into three distinct categories:
